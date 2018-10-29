@@ -15,9 +15,22 @@ h3{
 }
 a{
   font-size: 18px
-  color: white;
 }
+a:link              { color:white; }
+a:visited           { color:white; }
+a:hover             { color:white; }
+a:active            { color:white; }
+
 .graphictext{
   color:white;
   background-image:url("../images/the-flatiron-building.png");
+  font-weight: bold;
+}
+.bottomline{
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+#copyright{
+  font-size: 11px;
 }
