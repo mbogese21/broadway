@@ -23,7 +23,7 @@ a:active            { color:white; }
 
 .graphictext{
   color:white;
-  background-image:url("../images/the-flatiron-building.png");
+  background:url("../images/the-flatiron-building.png") no-repeat;
   font-weight: bold;
 }
 .bottomline{
